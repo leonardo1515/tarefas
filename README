@@ -1,2 +1,4 @@
  As variavei de ambiente NODE_ENV, DB_SYS, API_ENV, tem seus respectivos valores de:  dev,  dev, development, serviriam para ajudar a fazer deploy
  mas o deploy não foi feito 
+
+ Para iniciar a aplicação comando npm rum dev
